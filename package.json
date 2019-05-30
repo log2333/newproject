@@ -1,5 +1,8 @@
 {
     "name": "first",
     "version": "1.0.0",
-    "main": "first.js"
+    "main": "first.js",
+    "dependencies": {
+        "remote": "^0.2.6"
+    }
 }
