@@ -7,8 +7,7 @@ function createWindow(){
         webPreferences: {
             nodeIntegration: true
           }
-    })
-    
+    })    
     //然后加载应用的 index.html
     win.loadFile('index.html')
 }
